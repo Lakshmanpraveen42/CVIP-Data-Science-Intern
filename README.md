@@ -1,6 +1,6 @@
 # CVIP-Data-Science-Intern
 
-#Exploratory Data Analysis - Terrorism
+Exploratory Data Analysis - Terrorism
 
 Objective
 The goal of this project is to perform Exploratory Data Analysis (EDA) on the terrorism dataset to extract meaningful insights and patterns. By analyzing the dataset, we aim to uncover trends, identify high-risk regions, understand attack characteristics, and potentially reveal factors that contribute to terrorist activities.
@@ -13,7 +13,7 @@ Data Exploration: Use Jupyter notebooks or Python scripts to explore the dataset
 Analysis: Utilize data visualization and statistical methods to identify patterns.
 Insights: Extract meaningful insights from the analysis.
 
-#Breast Cancer Prediction
+Breast Cancer Prediction
 
 Objective
 The objective of this project is to create a predictive model that can accurately classify breast cancer cases as benign or malignant based on a set of relevant features. By leveraging historical data and applying machine learning techniques, we aim to develop a reliable tool for assisting medical professionals in diagnosing breast cancer.
